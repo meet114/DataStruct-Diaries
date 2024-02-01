@@ -1,0 +1,25 @@
+# Old homework folders
+hw1/
+hw2/
+hw3/
+hw4/
+hw5/
+hw6/
+hw7/
+hw2 copy/
+
+# Other folders
+homeW&/
+Store/
+TEST/
+Queues/Queue.java
+Queues/Queue_T.java
+
+# System files
+.DS_Store
+*.class
+*.zip
+*.bkp
+TEST.java
+OLD_HW7.zip
+hw3.bkp
