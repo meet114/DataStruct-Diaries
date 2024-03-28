@@ -1,0 +1,16 @@
+0 AnchorPane
+0-0 VBox
+0-0-0 HBox
+0-0-0-0 Label DogFolio, the Dog Name Management App
+0-0-0-1 Button Create New Dog
+0-0-0-2 Button Save Dog
+0-0-0-3 Button Quit And Get A Cat
+0-0-1 TextArea Fido... Or Nancy?
+0-0-2 HBox
+0-0-2-0 Button Get a Pro Bone-o Dog Lawyer
+0-0-2-1 Button Random Generate A Dog Name
+0-0-2-2 Button Just Make It Fido
+0-0-2-3 VBox
+0-0-2-3-0 Button Bark
+0-0-2-3-1 Button Roll
+0-0-2-3-2 Button Treat!
